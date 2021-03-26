@@ -1,3 +1,3 @@
 public class gg {
-public String str;
+public String     str;
 }
